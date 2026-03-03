@@ -104,14 +104,6 @@ Each resource entry follows this format:
 - **Related Resources**: Other relevant materials in the repo
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for:
-- Guidelines on adding resources
-- Quality standards
-- How to format submissions
-- Review process
-
 ## ⭐ Trending Resources
 
 Check out recently added and highly rated materials to stay current with the field.
