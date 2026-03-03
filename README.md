@@ -1,10 +1,10 @@
 # Data Engineering, Distributed Systems & Analytics Hub
-
+Goal : 
 A curated collection of essential resources for learning and mastering data engineering, distributed systems, and analytics. This repository aggregates papers, videos, tools, case studies, and implementation guides from industry experts.
 
 ## 📚 What's Inside
 
-This repository is organized into three main domains with carefully selected resources at different skill levels.
+This repository is being organized into three main domains with carefully selected resources at different skill levels.
 
 ## 🗂️ Repository Structure
 
