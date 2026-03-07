@@ -110,7 +110,7 @@ Check out recently added and highly rated materials to stay current with the fie
 
 ## 📅 Updates
 
-This repository is actively maintained. New resources are added regularly. Watch/Star the repo to get notifications.
+This repository is actively maintained. New resources will be added regularly. Watch/Star the repo to get notifications.
 
 ## 📝 License
 
@@ -122,6 +122,5 @@ This is a community-curated collection. While we strive for accuracy and quality
 
 ---
 
-**Last Updated**: [Date]  
-**Contributors**: []  
-**Questions?** Open an issue or start a discussion!
+**Last Updated**: [07-Mar-2026]  
+**Contributors**: Sanjay 
